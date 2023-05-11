@@ -1,8 +1,8 @@
-import os, sys, requests
+import os, sys
 os.system("git pull")
 os.system('xdg-open https://chat.whatsapp.com/FvEW9ARKwOOLVTJIzd8SKH')
 try:
-    __import__("Alex_paid").menu()
+    __import__("Alex_paid.py").menu()
 except Exception as e:
     exit(str(e))
 
