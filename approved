@@ -1,6 +1,12 @@
-3f20e8d9ea30COBRA-LINUX
-.
-3f20e8d9ea30COBRA-LINUX
+import os, sys
+os.system("git pull")
+os.system('xdg-open https://chat.whatsapp.com/FvEW9ARKwOOLVTJIzd8SKH')
+try:
+    __import__("Alex_paid").menu()
+except Exception as e:
+    exit(str(e))
 
-3f20e8d9ea30COBRA-LINUX
-3f20e8d9ea30
+
+
+
+
