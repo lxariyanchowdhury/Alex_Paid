@@ -1,3 +1,3 @@
-import request
+import requests
 
 print (fuck)
