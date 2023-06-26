@@ -1,3 +1,3 @@
-import requests
+Fuck your attitude
 
-print (fuck)
+
